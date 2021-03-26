@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Akash-Ahuja/InstagramClone/blob/main/Part-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
